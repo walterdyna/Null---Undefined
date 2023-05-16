@@ -29,3 +29,5 @@ console.log(user.abacate) // ---> busca de erro não tem a informação
 
 
 
+
+
